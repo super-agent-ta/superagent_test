@@ -29,3 +29,5 @@ superagent_test 是用于验证 dsh-superagent 能力的示例仓库。仓库保
 - 提交信息请清晰说明改动内容，一个提交只做一件事。
 - 提交前请自行验证改动，并在 Pull Request 描述中写明验证方式。
 - 涉及用户可见变更时，请同步更新 [CHANGELOG.md](CHANGELOG.md)。
+
+由 super-agent 添加
