@@ -11,3 +11,4 @@
 - 将 `hello.txt` 内容调整为正式问候语。
 - 为 `README.md` 增加项目说明、使用方法和贡献指南三个章节。
 - 新增 `CHANGELOG.md`，用于记录项目变更。
+- 在 `README.md` 末尾补充一行「由 super-agent 添加」。
